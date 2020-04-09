@@ -5,3 +5,5 @@ Using the Google Maps location .JSON file, I parse the data to pull mainly Longi
 The final product can be seen here: https://userjhata.shinyapps.io/motorcycle_ride/
 
 The .R script in this repo is meant to be a "plug & play" script where you need only to replace the reference to your own .json file to visualize your own data.
+
+![Image of Shiny App output](https://github.com/userjhata/google-location-data-plus-shiny-leaflet-mapping/blob/master/google_data_mapping.PNG)
